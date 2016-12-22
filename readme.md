@@ -1,3 +1,1 @@
-It works!
-And again!
-
+This is a repo for store all the GHOST content data.
