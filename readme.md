@@ -1,1 +1,1 @@
-This is a repo for store all the GHOST content data.
+This is a repo for all the GHOST content data.
